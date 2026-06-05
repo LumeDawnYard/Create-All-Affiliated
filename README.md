@@ -1,4 +1,5 @@
 # Create-All-Affiliated
 一个为机械动力而生的全附属整合包，内含超200+机械动力附属模组
+这里面没有繁琐的任务书你只需要正常探索发挥你的想象力即可
 整合包已在modrinth和curseforge上发布当然这里有着所有版本的完整版
 而modrinth和curseforge均为特供版根据平台发布规则有所删减
